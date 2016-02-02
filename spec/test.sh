@@ -1,4 +1,4 @@
 #!/bin/bash
 
-rspec repository_spec.rb -f d
+rspec repository_spec.rb -f d --color
 
